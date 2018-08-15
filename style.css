@@ -18,3 +18,15 @@ div{
 p{
     margin-bottom: 40px;
 }
+footer {
+    display: flex;
+    margin-top: 60px;
+}
+footer > p {
+    justify-content: space-evenly;
+    width: 100%;
+    text-align: center;
+    background-color: beige;
+    border-radius: 5px;
+    border: 1px solid black;
+}
